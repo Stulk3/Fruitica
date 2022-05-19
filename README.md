@@ -14,7 +14,7 @@
  
 
 # Gameplay
-![](https://user-images.githubusercontent.com/33595233/169300869-d8827563-000d-4a69-a4c2-68aaf5f4e2c9.gif)
+   ![](https://user-images.githubusercontent.com/33595233/169300869-d8827563-000d-4a69-a4c2-68aaf5f4e2c9.gif?raw=true)
 
 
 # Разработчики :shipit:
