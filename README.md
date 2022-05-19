@@ -6,7 +6,7 @@
  
 
 # Gameplay
-  ![](https://disk.yandex.ru/i/KaVwXZ8fAQKiWA)
+  ![](https://disk.yandex.ru/i/KaVwXZ8fAQKiWA?raw=true)
 
 # Разработчики :shipit:
 + [Иван Аминов](https://github.com/Stulk3)
