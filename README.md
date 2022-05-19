@@ -6,7 +6,8 @@
  
 
 # Gameplay
-  ![](https://disk.yandex.ru/i/KaVwXZ8fAQKiWA?raw=true)
+https://user-images.githubusercontent.com/33595233/169284032-0de0e81c-7a14-4e66-a7a9-bfdf9af94e19.MOV
+
 
 # Разработчики :shipit:
 + [Иван Аминов](https://github.com/Stulk3)
